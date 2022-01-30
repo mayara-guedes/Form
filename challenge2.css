@@ -1,0 +1,66 @@
+#maior {
+    border: solid;
+    margin-top: 0;
+    background-color: #FFFFcC;
+}
+
+h3 {
+    position: absolute;
+    background-color: #ffffff;
+    margin-top: -22px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 400;
+}
+
+#checkbox {
+    display: block;
+    border: none;
+}
+
+.sexo {
+    display: block
+}
+
+#sexo {
+    border: none;
+}
+
+.input {
+    display: block;
+    border-style: solid;
+    margin-top: 0px;
+}
+
+#submit {
+    color: #990099
+}
+
+#reset {
+    color: rebeccapurple;
+}
+
+#botoes :hover {
+    background-color: #84b5ce;
+    cursor: pointer;
+    color: blue;
+    border-style: solid;
+    transform: scale(1.2);
+    border-color: turquoise;
+}
+
+* {
+    border-color: #FFCCFF;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    padding: 3px;
+    color: #990999;
+}
+
+.nome {
+    margin-top: 0px;
+}
+
+.email {
+    padding-top: 0px;
+}
